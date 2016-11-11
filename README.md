@@ -1,4 +1,4 @@
-# Sanek  Boot
+# Snak Boot
 
 Klasyczna gra Snake, w której jest możliwość uruchomienia boota, który sam gra w grę.
 
